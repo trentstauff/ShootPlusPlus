@@ -27,9 +27,9 @@ Here's an example of raycasting in Wolfenstein- exactly what we are trying to re
 
 ![](../main/imgs/raycasting.gif)
 
-Here's a pretty drawing I did showcasing this idea into a diagram:
+Here's a drawing I did showcasing this idea into a diagram:
 
-![](../main/imgs/raytracing.png)
+![](../main/imgs/raycasting.png)
 
 Effectively, with this math, you have a working project! But, there is always more to improve on. As you can see, at this point the project is looking a little blurry. Edges arent sharp, and things are a little bland! Most importantly, we can't shoot anything yet!
 
