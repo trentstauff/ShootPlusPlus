@@ -27,7 +27,7 @@ Here's an example of raycasting in Wolfenstein- exactly what we are trying to re
 
 ![](../main/imgs/raycasting.gif)
 
-Here's a pretty drawing I did showcasing this idea into a diagram:
+Here's a drawing I did showcasing this idea into a diagram:
 
 ![](../main/imgs/raycasting.png)
 
