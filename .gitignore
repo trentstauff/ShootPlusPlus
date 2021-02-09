@@ -5,7 +5,7 @@
 *.o
 
 # Compiled Dynamic libraries
-*.so
+/*.so
 *.dylib
 
 # Compiled Static libraries
@@ -14,10 +14,20 @@
 *.a
 
 # Visual Studio Files
-Debug
-Release
 *.suo
 *.csproj.user
 *.vbproj.user
 ipch
 *sdf
+bin/
+*/*.sln
+*.vcxproj
+*/*/bin/
+*/Debug/
+*/DebugRelease/
+*/Release/
+*/bin/
+*/.vs/
+*/*/obj/
+*/obj/
+*.cd
