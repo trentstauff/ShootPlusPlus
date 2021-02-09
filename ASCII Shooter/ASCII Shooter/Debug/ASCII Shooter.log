@@ -1,5 +1,0 @@
-﻿  ASCII Shooter.cpp
-C:\Users\Craftcrossing\Desktop\github repos\ASCII Shooter\ASCII Shooter\ASCII Shooter\ASCII Shooter.cpp(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Craftcrossing\Desktop\github repos\ASCII Shooter\ASCII Shooter\ASCII Shooter\ASCII Shooter.cpp(174,44): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Craftcrossing\Desktop\github repos\ASCII Shooter\ASCII Shooter\ASCII Shooter\ASCII Shooter.cpp(184,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  ASCII Shooter.vcxproj -> C:\Users\Craftcrossing\Desktop\github repos\ASCII Shooter\ASCII Shooter\Debug\ASCII Shooter.exe
