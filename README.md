@@ -3,7 +3,7 @@
 
 Version: 2.0
 
-![](ShooterPlusPlus.gif)
+![](../main/imgs/ShooterPlusPlus.gif)
 
 Version 1.0 introduces basic functionality to the game.
 
